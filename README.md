@@ -1,2 +1,1 @@
-# advertising-api-python-report-request
-How to request a report using Python.
+How to generate and download a report from the Amazon Advertising API using Python.
